@@ -42,6 +42,8 @@ $(function() {
         ["itera_2012.jpg", "http://www.iteraconsulting.no/"],
         ["wepstep_2012.jpg", "http://www.webstep.no/"],
         ["miles_2012.jpg", "http://www.miles.no/"],
+        ["skatteetaten_2012.jpg", "http://www.skatteetaten.no/"],
+        ["conduct_2012.jpg", "http://www.conduct.no/"],
         ["finn_2012.jpg", "http://www.finn.no"]
     ];
 
