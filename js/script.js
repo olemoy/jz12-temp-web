@@ -44,6 +44,7 @@ $(function() {
         ["miles_2012.jpg", "http://www.miles.no/"],
         ["skatteetaten_2012.jpg", "http://www.skatteetaten.no/"],
         ["conduct_2012.jpg", "http://www.conduct.no/"],
+        ["schlumberger_2012.jpg", "http://www.schlumberger.com/"],
         ["finn_2012.jpg", "http://www.finn.no"]
     ];
 
